@@ -1,0 +1,45 @@
+{
+  "name": "medina-operating-principles",
+  "version": "1.0.0",
+  "description": "7 operating principles for LATAM B2B teams using Claude Code, Cursor, or any AI coding agent in production. Validated in 100+ real deals.",
+  "author": {
+    "name": "Alejandro Medina Lopera",
+    "email": "alejandro@medinaia.com",
+    "url": "https://medinaia.com"
+  },
+  "homepage": "https://github.com/MedInA23-coder/medina-operating-principles",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MedInA23-coder/medina-operating-principles.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "latam",
+    "b2b",
+    "ai-agents",
+    "claude-code",
+    "cursor",
+    "operating-principles",
+    "founders",
+    "spanish",
+    "español"
+  ],
+  "skills": [
+    {
+      "name": "medina-operating-principles",
+      "path": "skills/medina-operating-principles",
+      "description": "Apply MedInA's 7 operating principles for AI agents in LATAM B2B context"
+    }
+  ],
+  "compatibility": {
+    "claude-code": ">=1.0.0",
+    "cursor": ">=0.40.0"
+  },
+  "tags": [
+    "best-practices",
+    "ai-engineering",
+    "agent-design",
+    "latam",
+    "spanish-language"
+  ]
+}
